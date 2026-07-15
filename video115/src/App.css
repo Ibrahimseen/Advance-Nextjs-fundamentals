@@ -1,0 +1,9 @@
+@import "tailwindcss";
+.red{
+    background-color: red;
+}
+
+.nav{
+    background-color: black;
+    color: white;
+}
